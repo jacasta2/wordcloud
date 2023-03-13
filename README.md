@@ -6,7 +6,7 @@ I also go one step further and create the wordcloud direclty from the website wh
 
 The notebook using the PDF file is `wordcloud_from_pdf.ipynb`, while the one using the website is  `wordcloud_from_website.ipynb`.  
 
-All in all, although relatively simple, this is an interesting excercise since there's a bit of web scraping and text processing, which are tools that can come in handy in many data science projects.
+All in all, although relatively simple, this is an interesting exercise since there's a bit of web scraping and text processing, which are tools that can come in handy in many data science projects.
 
 I highly appreciate feedback and you can reach out to me on [LinkedIn](https://bit.ly/jaime-linkedin) any time. I'm also working on other projects. Check this out in my [personal website](https://bit.ly/jaime-website).
 
