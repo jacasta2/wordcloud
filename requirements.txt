@@ -1,0 +1,5 @@
+textract
+nltk
+wordcloud
+beautifulsoup4
+requests
